@@ -1,6 +1,8 @@
 # SpringCloudPractice
 
-## Features
+## Diagram
+ ![](https://github.com/tanxiazhe/SpringCloudPractice/raw/master/SpringCloud.png)
+
 
 ## Referrence
 
